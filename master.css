@@ -1,13 +1,24 @@
 
 
+body {
+  background-color: #EFEE80;
+
+
+}
+
 h1 {font-style: italic;
-    font-family: monospace;
+    font-family: 'Kumar One', cursive;
   font-size: 2em
       color: rgba(255,0,0,.5);
 }
 h2 {color: rgb(0,255,0);
+  padding-left: 10vw;
 }
-video {align-items: center;
+video {display: block;
+        margin-left: auto;
+        margin-right: auto;
 }
-iframe {align-items:center
+iframe {display: block;
+  margin-left: auto;
+  margin-right: auto;
  }
